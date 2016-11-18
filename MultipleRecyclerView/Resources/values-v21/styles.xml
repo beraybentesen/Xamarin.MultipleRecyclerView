@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <style name="MaterialTheme" parent="MaterialTheme.Base"/>
+
+   <style name="MaterialTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+	<item name="colorAccent">#3a67e0</item>
+ 	<item name="colorPrimary">#3a67e0</item>
+	<item name="colorPrimaryDark">#ffffff</item>
+	<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+	<item name="android:statusBarColor">#0d47a1</item>	
+   </style>
+
+	<style name="TabLayoutTheme" parent="Widget.Design.TabLayout">
+     <item name="tabIndicatorColor">#000000</item>
+     <item name="tabIndicatorHeight">2dp</item>
+	 <item name="tabTextAppearance">@style/TabLayoutTextAppearance</item>
+	</style>
+
+	<style name="TabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+      <item name="textAllCaps">false</item>
+	  <item name="android:textSize">19sp</item>
+	  <item name="android:fontFamily">sans-serif-light</item>
+	</style>
+</resources>
+

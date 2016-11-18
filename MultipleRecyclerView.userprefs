@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4D9CF41F-BE0C-47E9-A001-D6A8C6B6AD19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultipleRecyclerView/MainActivity.cs">
+    <Files>
+      <File FileName="MultipleRecyclerView/MainActivity.cs" Line="12" Column="23" />
+      <File FileName="MultipleRecyclerView/RecyclerViewFragment.cs" Line="27" Column="3" />
+      <File FileName="MultipleRecyclerView/RecyclerViewFragmentPagerAdapter.cs" Line="42" Column="3" />
+      <File FileName="MultipleRecyclerView/RecyclerViewDataModel.cs" Line="8" Column="3" />
+      <File FileName="MultipleRecyclerView/RecyclerViewAdapter.cs" Line="60" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MultipleRecyclerView AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_6P_API_22" AndroidDesignerPreferredTheme="Theme.Material.Light" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
